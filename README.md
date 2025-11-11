@@ -1,5 +1,5 @@
 # art_ai_resources
-# 🎥 Playlists Curated and Produced by Marlon Barrios Solano
+
 
 # 🌐 AI Resources: Proprietary and Open-Source Platforms
 
@@ -9,12 +9,12 @@ This collection highlights intersections between **embodiment, cognition, and ge
 
 👉 [https://www.youtube.com/watch?v=vneJieU5qlg&list=PLC2ijZ2U-avjdVO75rI480x5ftMbD3d3v](https://www.youtube.com/watch?v=vneJieU5qlg&list=PLC2ijZ2U-avjdVO75rI480x5ftMbD3d3v)
 
----
-
 ## 🎬 Music Videos — All Created with AI  
 A curated YouTube playlist of **music videos produced entirely with artificial intelligence**, exploring generative sound, animation, and cinematic composition.  
 
 👉 [https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3](https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
+
+# 🎥 Playlists Curated and Produced by Marlon Barrios Solano
 
 ## 1. Proprietary AI Platforms
 
