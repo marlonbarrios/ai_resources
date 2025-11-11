@@ -1,5 +1,16 @@
 # art_ai_resources
 
+### 🧭 These are resources compiled for the educational activities of **Marlon Barrios Solano**, exploring the intersections of AI, art, cognition, and creative process.
+
+---
+
+## 🎥 Featured Videos  
+Introductory videos related to AI, art, and creative cognition curated by **Marlon Barrios Solano**:
+
+- [https://www.youtube.com/watch?v=r9mWjgJdSdw](https://www.youtube.com/watch?v=r9mWjgJdSdw)  
+- [https://youtu.be/oWm0C5diyQY](https://youtu.be/oWm0C5diyQY)
+
+---
 
 # 🌐 AI Resources: Proprietary and Open-Source Platforms
 
@@ -13,6 +24,8 @@ This collection highlights intersections between **embodiment, cognition, and ge
 A curated YouTube playlist of **music videos produced entirely with artificial intelligence**, exploring generative sound, animation, and cinematic composition.  
 
 👉 [https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3](https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
+
+---
 
 # 🎥 Playlists Curated and Produced by Marlon Barrios Solano
 
