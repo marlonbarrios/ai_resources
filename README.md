@@ -86,6 +86,8 @@ The de facto *GitHub for AI* where users collaborate on training and deployment.
 Run LLMs such as Llama 3, Mistral, or Phi 3 **locally** on your machine.  
 Perfect for private, offline experimentation and integration with LangChain or Open WebUI.
 
+[Video Playlist with Ollama course](https://www.youtube.com/playlist?list=PLvsHpqLkpw0fIT-WbjY-xBRxTftjwiTLB)
+
 ### ☁️ Replicate — [https://replicate.com](https://replicate.com)
 
 Cloud service for running and hosting open models via simple APIs.  
