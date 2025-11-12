@@ -122,7 +122,8 @@ An interactive web application created by **Marlon Barrios Solano** that allows 
 It explores live AI interaction, performative text transformation, and the boundaries between **prompt engineering, creative coding, and generative performance**.  
 This tool functions both as an educational experiment and as an artistic interface for understanding **prompt dynamics** in LLMs.
 
----
+You can also create a system prompt at [Google AI Studio](https://aistudio.google.com/)
+
 
 ## 5. Summary Table
 
