@@ -49,8 +49,7 @@ Use Alan-AI as your study partner to explore the following topics:
 
 ---
 
-## 2. Context playlists
-
+## 2. Context playlists 
 
 
 ### 🎨 Reference Videos on AI, Creative Process, and Art
