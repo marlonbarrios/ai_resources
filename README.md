@@ -4,15 +4,60 @@
 
 ---
 
-## 🎥 Featured Videos  
-Introductory videos related to AI, art, and creative cognition curated by **Marlon Barrios Solano**:
+# Introducing Alan-AI — Advanced AI Tutor
 
-- https://www.youtube.com/watch?v=r9mWjgJdSdw  
-- https://youtu.be/oWm0C5diyQY
+**URL:** https://www.alan-ai.app/
+
+Meet **Alan-AI**, an advanced educational chatbot created as an homage to **Alan Turing**, the pioneering mathematician and computer scientist. Alan-AI is designed to support independent learning in **artificial intelligence**, **generative systems**, **computational creativity**, and **creative coding**.
+
+Speaking in the *first person*, Alan-AI shares insights into Turing’s life, explains foundational and advanced concepts in AI, and guides you through hands-on explorations using **p5.js**, **p5.sound**, and algorithmic art techniques. You can write, run, and visualize code directly in the chat interface for immediate experimentation.
+
+Alan-AI also allows you to **download your full conversation as a PDF** and **copy code snippets** directly from the chat—ideal for building your own archive of experiments, prototypes, and study notes.
 
 ---
 
-# 🌐 AI Resources: Proprietary and Open-Source Platforms
+## Suggested Conversations Topics with Alan-AI
+
+Use Alan-AI as your study partner to explore the following topics:
+
+
+- **Artificial Intelligence (AI)**
+- **Machine Learning**
+- **Deep Learning**
+- **Neural Networks**
+- **Perceptrons**
+- **Generative AI**
+- **GPT (Generative Pre-trained Transformer)**
+- **Latent Space**
+- **Model**
+- **Algorithms and Automation**
+- **Generative Art**
+- **Complexity and Emergence**
+- **Chaos Theory**
+- **Cybernetics**
+- **Evolutionary Computing**
+- **Rule-Based Systems**
+- **Creative Coding**
+- **Computational Creativity**
+- **Physics-Based Simulations**
+- **Fractals and Generative Grammars**
+- **Neuro-Evolution and Reinforcement Learning**
+- **Digital Art and Technology**
+- **Generative Design**
+- **Art and AI Ethics**
+- **ELIZA (Early Natural Language Processing Program)**
+- **Perlin Noise**
+
+
+
+## 4. Experimental and Independent Projects
+
+### 🧠 Realtime Transformer by Marlon Barrios Solano  
+🔗 https://realtimetransformer-r267.vercel.app/
+
+Create a system prompt at Google AI Studio:  
+https://aistudio.google.com/
+
 
 ## 🎨 Reference Videos on AI, Creative Process, and Art  
 A YouTube playlist featuring reference materials, lectures, performances, and creative research related to **AI, the creative process, and contemporary art practices**.
@@ -24,7 +69,7 @@ A curated YouTube playlist of **music videos produced entirely with artificial i
 
 👉 https://www.youtube.com/watch?v=gTnYNPA-55o&list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3
 
----
+---]
 
 # 🎥 Playlists Curated and Produced by Marlon Barrios Solano
 
@@ -77,8 +122,13 @@ These are closed or commercial systems accessible through **APIs, subscriptions,
 
 ### ⚡ Fal.ai — https://fal.ai
 
----
 
+## 🎥 Featured Music Videos  
+Introductory videos related to AI, art, and creative cognition curated by **Marlon Barrios Solano**:
+
+- https://www.youtube.com/watch?v=r9mWjgJdSdw  
+- https://youtu.be/oWm0C5diyQY
+ 
 ## 3. Example Models on Replicate for digital object
 
 | Model | Description |
@@ -97,15 +147,6 @@ These are closed or commercial systems accessible through **APIs, subscriptions,
 
 ---
 
-## 4. Experimental and Independent Projects
-
-### 🧠 Realtime Transformer by Marlon Barrios Solano  
-🔗 https://realtimetransformer-r267.vercel.app/
-
-Create a system prompt at Google AI Studio:  
-https://aistudio.google.com/
-
----
 
 ## 5. Summary Table
 
