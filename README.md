@@ -59,7 +59,10 @@ These are closed or commercial systems accessible through **APIs, subscriptions,
 - **Midjourney** — https://www.midjourney.com  
 - **Runway ML** — https://runwayml.com  
 - **Adobe Firefly** — https://www.adobe.com/sensei/generative-ai/firefly.html  
-- **Stability AI DreamStudio** — https://dreamstudio.ai  
+- **Stability AI DreamStudio** — https://dreamstudio.ai
+- **Suno** — https://suno.com/
+- **Eleven Labs** - https://elevenlabs.io/
+  
 
 ---
 
@@ -76,17 +79,21 @@ These are closed or commercial systems accessible through **APIs, subscriptions,
 
 ---
 
-## 3. Example Models on Replicate
+## 3. Example Models on Replicate for digital object
 
 | Model | Description |
 |-------|-------------|
 | **GPT-OSS 20B** | https://replicate.com/openai/gpt-oss-20b |
 | **Music-1.5** | https://replicate.com/minimax/music-1.5 |
+| **Musicgen** | https://replicate.com/meta/musicgen |
 | **FLUX.1 [schnell]** | https://replicate.com/black-forest-labs/flux-schnell |
 | **Seedream 3.0** | https://replicate.com/bytedance/seedream-3 |
 | **Mochi-1** | https://replicate.com/genmoai/mochi-1 |
 | **LTX-2 Fast** | https://replicate.com/lightricks/ltx-2-fast |
 | **WAN 2.2 S2V** | https://replicate.com/wan-video/wan-2.2-s2v |
+
+
+[Create a training on replicate](https://replicate.com/replicate/fast-flux-trainer/train)
 
 ---
 
