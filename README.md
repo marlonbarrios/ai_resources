@@ -87,14 +87,20 @@ Use Alan-AI as your study partner to explore:
 
 ---
 
-## 4. Open-Source / Freely Served AI Platforms
+## 4. Open-Source / Freely Served AI Platforms / Affordable!
 
-### 🤗 Hugging Face — <https://huggingface.co>
+### ☁️ Replicate — <https://replicate.com>
 
 ### 🧩 Ollama — <https://ollama.com>  
 👉 Playlist: <https://www.youtube.com/playlist?list=PLyrg3m7Ei-MqNM-au_lfjzTsuVVTTx0ke>
 
-### ☁️ Replicate — <https://replicate.com>
+### [Instruction to register on Replicate](https://marlonbarrios.github.io/replicateinstructions/)
+
+### 🤗 Hugging Face — <https://huggingface.co>
+
+
+
+
 
 ### ⚡ Fal.ai — <https://fal.ai>
 
